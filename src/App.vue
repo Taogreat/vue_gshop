@@ -8,7 +8,7 @@
 <script type="text/ecmascript-6">
   import FooterGuide from '@/components/FooterGuide/FooterGuide'
   export default {
-    components:{ FooterGuide }
+    components:{FooterGuide}
   }
 </script>
 
